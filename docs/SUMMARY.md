@@ -1,4 +1,4 @@
 # Table of contents
 
-* [TEST YOU KNOW](README.md)
+* [About](README.md)
 
