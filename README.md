@@ -8,7 +8,7 @@ Sushi ERP is an open source [https://en.wikipedia.org/wiki/Enterprise\_resource\
 
 ## It is very easy
 
-and stuff
+and stuff yeah
 
 
 ## 
